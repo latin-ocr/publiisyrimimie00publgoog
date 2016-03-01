@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiisyrimimie00publgoog/publiisyrimimie00publgoog_0192.png"; bbox 0 0 2676 4894; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 1532 956 1608">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 227 1532 956 1608">
+     <span class='ocr_line' id='line_1_1' title="bbox 227 1532 956 1608; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 227 1532 544 1608; x_wconf 80' lang='lat' dir='ltr'>VARIORUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 579 1537 651 1607; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 683 1535 956 1608; x_wconf 85' lang='lat' dir='ltr'>EDITORIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 51 1685 1335 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 51 1685 1335 1912">
+     <span class='ocr_line' id='line_1_2' title="bbox 51 1685 1335 1904; baseline -0.001 -26"><span class='ocrx_word' id='word_1_4' title='bbox 51 1685 1335 1904; x_wconf 61' lang='lat' dir='ltr'><strong>ADNOTAT1QNES⁸x</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 100 2219 1065 2354">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 100 2219 1065 2354">
+     <span class='ocr_line' id='line_1_3' title="bbox 100 2219 1065 2354; baseline 0.002 -25"><span class='ocrx_word' id='word_1_5' title='bbox 100 2251 354 2354; x_wconf 68' lang='lat' dir='ltr'>Pussml</span> <span class='ocrx_word' id='word_1_6' title='bbox 396 2251 559 2330; x_wconf 67' lang='lat' dir='ltr'><strong>svm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 606 2255 692 2330; x_wconf 75' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 739 2219 1065 2332; x_wconf 69' lang='lat' dir='ltr'>monum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1191 2339 1318 2400">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1191 2339 1318 2400">
+     <span class='ocr_line' id='line_1_4' title="bbox 1191 2339 1318 2400; baseline -0.008 1"><span class='ocrx_word' id='word_1_9' title='bbox 1191 2339 1202 2383; x_wconf 66' lang='lat' dir='ltr'><em>l</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1315 2392 1318 2400; x_wconf 83' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 348 2475 822 2586">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 348 2475 822 2590">
+     <span class='ocr_line' id='line_1_5' title="bbox 348 2475 822 2586; baseline 0 -6"><span class='ocrx_word' id='word_1_11' title='bbox 348 2475 822 2586; x_wconf 63' lang='lat' dir='ltr'><strong>SENTENT&#39;MS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1342 4894">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1342 4894">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1342 4894; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1342 4894; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
